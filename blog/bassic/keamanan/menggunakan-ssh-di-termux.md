@@ -17,7 +17,7 @@ type: pages
 ---
  
 1. Buat folder **.ssh** jika tidak ada, lalu masuk dan buat key
-```
+```bash
 $ mkdir .ssh
 $ cd ~/.ssh/
 $ ssh-keygen -t rsa -C "yourmail@domain.com" -b 4096

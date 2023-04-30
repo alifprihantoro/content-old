@@ -1,0 +1,13 @@
+- persiapan :
+  - hp dan internet
+  - aplikasi :
+    - termux
+    - vnc viewer
+    - browser
+- tutorial :
+  - [dasar dasar termux](./dasar-dasar-termux)
+  - configurasi :
+    - [termux](./conf-termux)
+    - [cmd shell](./shell)
+    - [nvim](./nvim)
+  - [proot](./proot)

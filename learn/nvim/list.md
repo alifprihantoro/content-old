@@ -1,0 +1,14 @@
+- nvim lua :
+  - var
+  - function
+  - logic
+  - regex
+  - loop
+  - api :
+    - option
+    - maps
+    - require
+    - autocmd
+- plugins :
+  - how to make :
+    - struktur dir
