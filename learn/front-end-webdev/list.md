@@ -9,6 +9,12 @@
 - [pengenalan Host](./pengenalan-host)
 - [buat kode lebih rapi dengan prettier dan eslint](./buat-kode-lebih-rapi-dengan-prettier-dan-eslint)
 - [Menata struktur direktori dan penamaan dalam mebuat sebuah projek](./Menata-struktur-direktori-dan-penamaan-dalam-mebuat-sebuah-projek)
+- standarisasi :
+  - accesibility, wcag
+  - privacy policy
+  - europe rules
+  - responsive
+  - security
 - optimasi code :
   - strucktur dir and naming :
     - design patern :
