@@ -10,24 +10,14 @@
 - [buat kode lebih rapi dengan prettier dan eslint](./buat-kode-lebih-rapi-dengan-prettier-dan-eslint)
 - [Menata struktur direktori dan penamaan dalam mebuat sebuah projek](./Menata-struktur-direktori-dan-penamaan-dalam-mebuat-sebuah-projek)
 - standarisasi :
-  - accesibility, wcag
-  - privacy policy
-  - europe rules
-  - responsive
-  - security
-- optimasi code :
-  - strucktur dir and naming :
-    - design patern :
-      - atomic design
-    - micro front end
-  - variable name
-  - arraow func vs function biasa
-  - map vs foreach vs forloop
-  - array vs hasmap vs object
-  - typescript
+  - [accesibility](./accesibility)
+  - [privacy policy](./privacy-policy)
+  - [responsive](./responsive)
+  - [security](./security)
+  - seo
+- [arraow func vs function biasa](./arraow-func-vs-function-biasa)
+- [javascript looping](./javascript-looping)
+- [struktur data javascript](./struktur-data-javascript)
+- [javascript vs typescript](./javascript-vs-typescript)
 - [testing e2e](./testing-e2e)
-- testing :
-  - jest
-  - cypress
-  - automation test
 - keep learning

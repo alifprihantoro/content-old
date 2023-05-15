@@ -1,3 +1,13 @@
+---
+title : 'Framework dan library CSS: SASS, Tailwind, Daisy UI'
+slug : Framework-dan-library-CSS-SASS-Tailwind-Daisy-UI
+desciption: ''
+date: "2023-05-15"
+tags: 
+  - info
+  - framework
+  - css
+---
 # CSS Framework, Utility, dan UI Libraries yang saya gunakan 
 
 CSS Framework, Utility, dan UI Libraries telah menjadi bagian yang penting dalam pengembangan website modern. Mereka menyediakan kumpulan alat dan gaya untuk mempercepat proses desain dan pengembangan, dan memungkinkan pengembang untuk menciptakan situs web yang responsif, estetis, dan mudah dikelola. Beberapa pilihan CSS Framework yang populer dan sering digunakan adalah SCSS/SASS, Tailwind, Daisy UI, dan Bootstrap.

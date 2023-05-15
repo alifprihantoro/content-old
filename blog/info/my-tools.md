@@ -1,3 +1,11 @@
+---
+title : 'Tools yang saya gunakan untuk front end dev'
+slug : Tools-yang-saya-gunakan-untuk-front-end-dev
+desciption: ''
+date: "2023-05-15"
+tags: 
+  - info
+---
 # List Tools yang saya gunakan
 Dalam dunia pengembangan perangkat lunak, ada banyak alat dan perangkat lunak yang dapat membantu meningkatkan produktivitas dan efisiensi dalam menulis kode, bekerja dengan repository, dan melakukan manajemen sistem. Di antara alat-alat ini, ada beberapa alat yang sangat berguna dan sering digunakan oleh pengembang perangkat lunak. Dalam artikel ini, kita akan membahas enam alat teratas yang digunakan oleh para pengembang, yaitu fzf, nvim, git, GitHub CLI, tmux, dan ssh.
 

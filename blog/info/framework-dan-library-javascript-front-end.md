@@ -1,5 +1,5 @@
 ---
-title : 'Framework JavaScript: Astro JS, React, Preact, Vue, Solid, Svelte, Alpine, Lit'
+title : 'Framework dan library JavaScript: Astro JS, React, Preact, Vue, Solid, Svelte, Alpine, Lit'
 slug : Framework-JavaScript-Astro-JS-React-Preact-Vue-Solid-Svelte-Alpine-Lit
 desciption: ''
 date: "2023-04-30"
