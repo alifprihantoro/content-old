@@ -1,0 +1,3 @@
+- cara membuat github action
+- cara released version github dengan github action
+- cara released npm pkg dengan github action
