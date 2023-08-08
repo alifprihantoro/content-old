@@ -7,3 +7,4 @@
 6. [Web Security Knowledge](./Web-Security-Knowledge)
 7. [Node Js](./nodejs.md)
 8. [linter dan formatter](./linter-dan-formatter.md)
+9. [module bundler](./module-bundler.md)
