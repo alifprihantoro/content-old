@@ -40,6 +40,7 @@ Berikut adalah beberapa kelebihan dan kekurangan antara NPM, Yarn, dan pnpm:
 - PNPM :
   - https://medium.com/javascript-indonesia-community/mengenal-pnpm-package-manager-d62caf9a643
 
+source :
 - JavaScript Package Managers: NPM Vs YARN Vs PNPM - Atatus. https://www.atatus.com/blog/npm-vs-yarn-vs-pnpm/.
 - JavaScript package managers compared: npm, Yarn, or pnpm?. https://blog.logrocket.com/javascript-package-managers-compared/.
 - Perbandingan npm, npx, pnpm, dan yarn Perangkat Pengelolaan Paket untuk .... https://www.codepolitan.com/blog/perbandingan-npm-npx-pnpm-dan-yarn-perangkat-pengelolaan-paket-untuk-ekosistem-javascript.

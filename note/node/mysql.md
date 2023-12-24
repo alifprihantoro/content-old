@@ -8,7 +8,9 @@ description: "Install mysql"
 - `pkg update -y && pkg upgrade -y`
 - `pkg install mariadb -y`
 - `mysqld_safe -u root`
-- `mysql -u $(whoami)`
+- `mariadb -u $(whoami)`
+
+> jika error ketika update, hapus `/usr/var/lib/mysql` (cari satu persatu tiap folder yang berkaitan mysql, lalu install ulang. NB: data hilang)
 ```bash
 use mysql;
 set password for 'root'@'localhost' = password('1234');
